@@ -1,0 +1,12 @@
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\bin\Debug\net6.0\AnnalynsInfiltration.deps.json
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\bin\Debug\net6.0\AnnalynsInfiltration.dll
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\bin\Debug\net6.0\ref\AnnalynsInfiltration.dll
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\bin\Debug\net6.0\AnnalynsInfiltration.pdb
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\net6.0\AnnalynsInfiltration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\net6.0\AnnalynsInfiltration.AssemblyInfoInputs.cache
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\net6.0\AnnalynsInfiltration.AssemblyInfo.cs
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\net6.0\AnnalynsInfiltration.csproj.CoreCompileInputs.cache
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\net6.0\AnnalynsInfiltration.dll
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\net6.0\ref\AnnalynsInfiltration.dll
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\net6.0\AnnalynsInfiltration.pdb
+C:\Users\Polli\source\repos\AnnalynsInfiltration\AnnalynsInfiltration\obj\Debug\net6.0\AnnalynsInfiltration.csproj.AssemblyReference.cache
